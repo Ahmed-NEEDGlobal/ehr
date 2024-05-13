@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer className="grid">
       <div className="space-y-2">
-        <h1 className="bg-box-color bg-cover pb-2">Announcement for Passengers</h1>
+        <h1 className="bg-box-color bg-cover mb-2 flex justify-self-auto">Announcement for Passengers</h1>
         <div className="text-[8px] font-[370]">
           <h5 className="font-bold">E-Ticket Notice:</h5>
           <p>
